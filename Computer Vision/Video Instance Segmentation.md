@@ -14,3 +14,8 @@
 
   [[Abstract](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a)]
   [[Paper](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a)]
+
+- Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia. End-to-End Video Instance Segmentation with Transformers. In CVPR, 2021.
+
+  [[Abstract](https://paperswithcode.com/paper/end-to-end-video-instance-segmentation-with)]
+  [[Paper](https://paperswithcode.com/paper/end-to-end-video-instance-segmentation-with)]
