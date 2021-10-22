@@ -5,6 +5,7 @@
   [[Abstract](https://paperswithcode.com/paper/video-instance-segmentation)]
   [[Paper](https://paperswithcode.com/paper/video-instance-segmentation)]
   [[Code](https://github.com/youtubevos/MaskTrackRCNN)]
+  [[YouTubeVIS](https://youtube-vos.org/dataset/vis/)]
   
 - Thuy C. Nguyen, Tuan N. Tang, Nam LH. Phan, Chuong H. Nguyen, Masayuki Yamazaki, Masao Yamanaka. 1st Place Solution for YouTubeVOS Challenge 2021:Video Instance Segmentation. 12 Jun 2021.
 
