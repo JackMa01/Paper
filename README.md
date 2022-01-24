@@ -16,7 +16,9 @@
   - [Domain Adaptation](https://github.com/JackMa01/Paper/tree/main/Transfer%20Learning/Domain%20Adaptation)（领域适应）
     - [Domain Adaptation](https://github.com/JackMa01/Paper/tree/main/Transfer%20Learning/Domain%20Adaptation/Domain%20Adaptation.md)（领域适应）
     - [Model Adaptation](https://github.com/JackMa01/Paper/tree/main/Transfer%20Learning/Domain%20Adaptation/Model%20Adaptation.md)（模型适应）
+- Out of Distribution
+  - Out of Distribution
+    - Out of Distribution
 
 ---
-
 
